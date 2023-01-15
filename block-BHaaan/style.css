@@ -49,6 +49,9 @@ table {
 .header1 {
     background-color:lightblue;
     text-align:center;
+	height:30px;
+	line-height:30px;
+	margin-bottom:40px;
 }
 
 nav{
@@ -57,9 +60,19 @@ nav{
 
 .mains {
     text-align:center;
+	margin:auto 30px;
 }
 
+h2{
+	font-size:30px;
+}
 .footnote {
     text-align:center;
     background:purple;
+	height:30px;
+	line-height:30px;
+}
+
+.date{
+	color:navajowhite
 }
